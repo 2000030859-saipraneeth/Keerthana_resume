@@ -17,10 +17,10 @@ function AboutCard() {
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> President of Data science club 
+              <ImPointRight /> Director Of designing (Kognitiv Technology club)
             </li>
             <li className="about-activity">
-              <ImPointRight /> NCC Cadet
+              <ImPointRight /> Student Peermentor
             </li>
          
           </ul>
