@@ -26,9 +26,9 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Just belive in your self "{" "}
+            "The person below this quote is always amazing"{" "}
           </p>
-          <footer className="blockquote-footer">Guna</footer>
+          <footer className="blockquote-footer">- Keerthana</footer>
         </blockquote>
       </Card.Body>
     </Card>
